@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c3ef8131.chunk.css",
+    "main.js": "/static/js/main.c18cb912.chunk.js",
+    "main.js.map": "/static/js/main.c18cb912.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.80778fc9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.80778fc9.js.map",
+    "static/js/2.df2e093c.chunk.js": "/static/js/2.df2e093c.chunk.js",
+    "static/js/2.df2e093c.chunk.js.map": "/static/js/2.df2e093c.chunk.js.map",
+    "static/js/3.3d8fc2cf.chunk.js": "/static/js/3.3d8fc2cf.chunk.js",
+    "static/js/3.3d8fc2cf.chunk.js.map": "/static/js/3.3d8fc2cf.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c3ef8131.chunk.css.map": "/static/css/main.c3ef8131.chunk.css.map",
+    "static/js/2.df2e093c.chunk.js.LICENSE.txt": "/static/js/2.df2e093c.chunk.js.LICENSE.txt",
+    "static/media/7202105.b494abb8.jpg": "/static/media/7202105.b494abb8.jpg",
+    "static/media/bg.071f2689.jpg": "/static/media/bg.071f2689.jpg",
+    "static/media/chair.f10c11b9.jpg": "/static/media/chair.f10c11b9.jpg",
+    "static/media/cobra.58cc1e50.png": "/static/media/cobra.58cc1e50.png",
+    "static/media/cobra.fcbccbd9.jpg": "/static/media/cobra.fcbccbd9.jpg",
+    "static/media/count.f89c5fa1.wav": "/static/media/count.f89c5fa1.wav",
+    "static/media/dog.551aeeb3.jpg": "/static/media/dog.551aeeb3.jpg",
+    "static/media/img.13b798d6.jpg": "/static/media/img.13b798d6.jpg",
+    "static/media/img1.33f300cc.jpg": "/static/media/img1.33f300cc.jpg",
+    "static/media/img2.071f2689.jpg": "/static/media/img2.071f2689.jpg",
+    "static/media/improve.99d8689a.png": "/static/media/improve.99d8689a.png",
+    "static/media/lotus.11eac64b.png": "/static/media/lotus.11eac64b.png",
+    "static/media/release.a5f85689.png": "/static/media/release.a5f85689.png",
+    "static/media/shoulderstand.784f28f4.jpg": "/static/media/shoulderstand.784f28f4.jpg",
+    "static/media/th.4e4eceb4.jpeg": "/static/media/th.4e4eceb4.jpeg",
+    "static/media/traingle.e09c1851.jpg": "/static/media/traingle.e09c1851.jpg",
+    "static/media/tree.04893f79.jpg": "/static/media/tree.04893f79.jpg",
+    "static/media/warrior.ad323405.jpg": "/static/media/warrior.ad323405.jpg",
+    "static/media/yoga.253a36fb.png": "/static/media/yoga.253a36fb.png",
+    "static/media/yogapose.1161dbdc.png": "/static/media/yogapose.1161dbdc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80778fc9.js",
+    "static/js/2.df2e093c.chunk.js",
+    "static/css/main.c3ef8131.chunk.css",
+    "static/js/main.c18cb912.chunk.js"
+  ]
+}
