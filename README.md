@@ -58,7 +58,7 @@ Here are some screenshots of the Aasana-Sense website:
 
 ![Aasana-Sense Home Page](https://raw.githubusercontent.com/code-bajju/Asana-Sense/main/Main/Github/main.png "Aasana-Sense Home Page")
 
-![Aasana-Sense Chat Bot](https://raw.githubusercontent.com/code-bajju/Asana-Sense/main/Main/Github/ChatBot.png "Aasana-Sense Chat Bot")
+![Aasana-Sense Chat Bot](https://raw.githubusercontent.com/code-bajju/Asana-Sense/main/Main/Github/chatBot.png "Aasana-Sense Chat Bot")
 
 ![Aasana-Sense Pose 1](https://raw.githubusercontent.com/code-bajju/Asana-Sense/main/Main/Github/Pose1.png "Aasana-Sense Pose 1")
 
