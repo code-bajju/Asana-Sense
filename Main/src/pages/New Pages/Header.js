@@ -1,5 +1,7 @@
 import React from 'react';
 import '../New Pages/style.css';
+import KommunicateChat from '../ChatBot/ChatB';
+import ChatB from '../ChatBot/ChatB';
 // import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 // import { faCompass, faCameraRetro, faBicycle, faFlagCheckered } from '@fortawesome/free-solid-svg-icons';
 
@@ -7,26 +9,27 @@ function Header() {
   return (
     <>
       <header>
-        <h2><a href="#">Yoga Sense</a></h2>
+        <h2><a href="#">Aasana Sense</a></h2>
         <nav>
-          <li><a href="#">Tours</a></li>
+          <li><a href="#">Home </a></li>
           <li><a href="#">About</a></li>
           <li><a href="#">Contact</a></li>
         </nav>
       </header>
+      <KommunicateChat></KommunicateChat>
 
       <section className="hero">
         <div className="background-image"></div>
         <div className="hero-content-area">
-          <h1>Yoga Sense By Team "Kal Karenge"</h1>
-          <h3>Unmissable Adventure Tours With Your Friends</h3>
-          <a href="" className="btn">Contact Us Now</a>
+          <h1>Aasana Sense By Team "Kal Karenge"</h1>
+          <h3>"Begin your journey to inner peace"</h3>
+          <a href="/start" className="btn">Try nOW</a>
         </div>
       </section>
 
       <section className="destinations">
-        <h3 className="title">Some of our destinations:</h3>
-        <p>Tired of the beach alone? Are the plains too plain? Come along with us on one of our unusual adventures with yout friends. Here are some pictures from people who have had elevated experiences with us.</p>
+        <h3 className="title">destinations</h3>
+        <p>"Yoga is not about touching your toes. It's about what you learn on the way down."</p>
         <hr/>
 
         <ul className="grid">
@@ -38,39 +41,52 @@ function Header() {
       </section>
 
       <section className="packages">
-        <h3 className="title">Tour Packages</h3>
-        <p>We offer a variety of group (minimum 5 people) packages. Whether you've spent some summers together or this might be your first adventure, we've got the perfect vacation for you.</p>
+        <h3 className="title">Features</h3>
+        <p>The Aasana-Sense provides real-time feedback on the user's yoga pose, including suggestions for corrections and improvements.</p>
         <hr/>
 
         <ul className="grid">
           <li>
             {/* <FontAwesomeIcon icon={faCompass} size="4x"/> */}
-            <h4>Guided Trips</h4>
-            <p>Looking for the complete experience? Take a tour with one of our experts. They'll show you secrets that you're likely to miss otherwise.</p>
+            <h4>Personalized recommendations</h4>
+            <p>.Providing personalized recommendations based on the user's fitness level, preferences, and goals, helping them to optimize their yoga practice and achieve their desired outcomes.</p>
           </li>
           <li>
             {/* <FontAwesomeIcon icon={faCameraRetro} size="4x"/> */}
-            <h4>Photo Trips</h4>
-            <p>Want to experience nature's beauty without all of that annoying exercise? Take a photo tour on one of our <em>Life is a party!</em> buses.</p>
+            <h4>Help Box</h4>
+            <p>Chat Box that assist you throughout your fitness journey.</p>
           </li>
           <li>
             {/* <FontAwesomeIcon icon={faBicycle} size="4x"/> */}
-            <h4>Biking Trips</h4>
-            <p>If bicycles are more your speed, consider taking a tour through one of our mountain or city bike paths. We'll provide the bikes, and lunch too!</p>
+            <h4>Strict Assistance</h4>
+            <p>The Aasana-Sense detects the accuracy of the poses and postures performed by the user and provides an accurate and strict assistance.</p>
           </li>
           <li>
             {/* <FontAwesomeIcon icon={faFlagCheckered} size="4x"/> */}
-            <h4>Racing Trips</h4>
-            <p>Got a competitive spirit? Sign up for one of our challenge-based marathons! Try to reach the summit before any other group.</p>
+            <h4>An Eye Keeper</h4>
+            <p>An eye is always on you that checks if you are actually doing your routine yoga.
+No skipping this time.</p>
           </li>
         </ul>
       </section>
 
       <section className="testimonials">
-        <h3 className="title">Testimonials from our adventurers:</h3>
+        <h3 className="title">Our Team:</h3>
+        <h4>Bajrang Gour</h4>
+        <p>Team Leader</p>
+        <h4>Yashwarddhan Gulia</h4>
+        <p>Team Member</p>
+
+        <h4>Tanishka Pahwa</h4>
+        <p>Team Member</p>
+
+        <h4>Sajal Singla</h4>
+        <p>Team Member</p>
+
         <hr/>
-        <p className="quote">Wow! This tour made</p>
+     
         </section>
+        Made with <i class="fa fa-heart pulse"></i> By <h4 href="" target="_blank" color='Black'>Kal karenge</h4>
         </>
   )}
   

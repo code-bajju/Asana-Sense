@@ -25,7 +25,7 @@ export default function Home() {
           {/* Nav Bar */}
           <nav className="navbar navbar-expand-lg navbar-dark">
             <a className="navbar-brand" href>
-              Yoga Sense
+              Aasana Sense
             </a>
             <button
               className="navbar-toggler"
@@ -249,7 +249,7 @@ export default function Home() {
     href=""
     target="_blank"
   >
-    Team Yoga-Sense
+    Team "Kal Karenge"
   </a>
 </span>
 

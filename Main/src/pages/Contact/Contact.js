@@ -17,7 +17,7 @@ export default function Contact() {
               href
               style={{ fontSize: "40px", paddingTop: "0px" }}
             >
-              yoga delight
+              Yoga-Sense
             </a>
             <button
               className="navbar-toggler"

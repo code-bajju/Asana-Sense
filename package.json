@@ -1,5 +1,10 @@
 {
   "dependencies": {
-    "font-awesome": "^4.7.0"
+    "axios": "^1.4.0",
+    "font-awesome": "^4.7.0",
+    "install": "^0.13.0",
+    "npm": "^9.6.5",
+    "react-simple-chatbot": "^0.6.1",
+    "eslint": "^7.11.0"
   }
 }

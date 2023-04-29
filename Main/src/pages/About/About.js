@@ -13,7 +13,7 @@ export default function About() {
       <div style={{padding: '5% 9%'}} >
         {/* Nav Bar */}
         <nav className="navbar navbar-expand-lg navbar-light">
-          <a className="navbar-brand" href style={{fontSize: '40px', paddingTop: '0px'}}>yoga delight</a>
+          <a className="navbar-brand" href style={{fontSize: '40px', paddingTop: '0px'}}>Yoga-Sense</a>
           <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02">
             <span className="navbar-toggler-icon" />
           </button>
