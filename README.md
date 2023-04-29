@@ -60,9 +60,9 @@ Here are some screenshots of the Aasana-Sense website:
 
 ![Aasana-Sense Chat Bot](https://raw.githubusercontent.com/code-bajju/Asana-Sense/main/Main/Github/chatBot.png "Aasana-Sense Chat Bot")
 
-![Aasana-Sense Pose 1](https://raw.githubusercontent.com/code-bajju/Asana-Sense/main/Main/Github/Pose1.png "Aasana-Sense Pose 1")
+![Aasana-Sense Pose 1](https://raw.githubusercontent.com/code-bajju/Asana-Sense/main/Main/Github/pose1.png "Aasana-Sense Pose 1")
 
-![Aasana-Sense Pose 2](https://raw.githubusercontent.com/code-bajju/Asana-Sense/main/Main/Github/Pose2.png "Aasana-Sense Pose 2")
+![Aasana-Sense Pose 2](https://raw.githubusercontent.com/code-bajju/Asana-Sense/main/Main/Github/pose2.png "Aasana-Sense Pose 2")
 
 ## Contributing
 
