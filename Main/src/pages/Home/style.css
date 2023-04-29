@@ -1,0 +1,8 @@
+html,
+body {
+  background: #fff !important;
+}
+
+header {
+  min-height: clamp(12.5rem, 60vw, 21rem);
+}

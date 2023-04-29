@@ -8,22 +8,24 @@ import m3 from "./images/improve.png"
 import m4 from "./images/release.png"
 import m5 from "./images/yogapose.png"
 import m6 from "./images/cobra.png"
+import Header from "../New Pages/Header";
 
 import "./Home.css";
 
 export default function Home() {
   return (
     <div>
+
       <section
         className="colored-section"
         id="title"
-        style={{ backgroundColor: "skyblue" }}
+        style={{ backgroundColor: "Grey" }}
       >
         <div className="container-fluid">
           {/* Nav Bar */}
           <nav className="navbar navbar-expand-lg navbar-dark">
             <a className="navbar-brand" href>
-              yoga delight
+              Yoga Sense
             </a>
             <button
               className="navbar-toggler"
@@ -69,7 +71,7 @@ export default function Home() {
                 className="big-heading"
                 
               >
-                Life is Better with Yoga.
+               Yoga Sense By Team "Kal Karenge"
               </h1>
               <Link to='/start'>
                         {/* <button
@@ -237,11 +239,20 @@ export default function Home() {
 
       <footer className="white-section" id="footer" data-aos="flip-up" data-aos-duration={1000}>
         <div className="container-fluid">
-          <i className="social-icon fab fa-facebook-f" />
+          {/* <i className="social-icon fab fa-facebook-f" />
           <i className="social-icon fab fa-twitter" />
           <i className="social-icon fab fa-instagram" />
-          <i className="social-icon fas fa-envelope" />
-          <p>© Copyright 2023 Yoga Delight</p>
+          <i className="social-icon fas fa-envelope" /> */}
+          <span>
+  Made with <i className="fa fa-heart pulse" /> in{" "}
+  <a
+    href=""
+    target="_blank"
+  >
+    Team Yoga-Sense
+  </a>
+</span>
+
         </div>
       </footer>
     </div>
