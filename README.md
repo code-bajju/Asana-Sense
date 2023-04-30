@@ -38,6 +38,10 @@ Then, navigate to the project directory and install the required dependencies:
 $ cd aasana-sense
 ```
 ```bash
+cd Main
+```
+
+```bash
 $ npm install
 ```
 
