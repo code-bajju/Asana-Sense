@@ -73,9 +73,11 @@ No skipping this time.</p>
       <section className="testimonials">
         <h3 className="title">Our Team:</h3>
         <h4>Bajrang Gour</h4>
+        <p>Back-End Dev</p>
+
 
         <h4>Rajvinder Kaur</h4>
-        <p>Team Member</p>
+        <p>Front-End Dev</p>
 
         <hr/>
      
