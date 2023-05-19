@@ -73,14 +73,14 @@ No skipping this time.</p>
       <section className="testimonials">
         <h3 className="title">Our Team:</h3>
         <h4>Bajrang Gour</h4>
-        <p>Team Leader</p>
-        <h4>Yashwarddhan Gulia</h4>
-        <p>Team Member</p>
+//         <p>Team Leader</p>
+//         <h4>Yashwarddhan Gulia</h4>
+//         <p>Team Member</p>
 
-        <h4>Tanishka Pahwa</h4>
-        <p>Team Member</p>
+//         <h4>Tanishka Pahwa</h4>
+//         <p>Team Member</p>
 
-        <h4>Sajal Singla</h4>
+        <h4>Rajvinder Kaur</h4>
         <p>Team Member</p>
 
         <hr/>
