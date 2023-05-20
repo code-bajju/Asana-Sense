@@ -13,7 +13,7 @@ The Aasana-Sense website is a web-based application designed to assist people in
 ## Technologies Used
 
 - ReactJS for the frontend
-- TensorFlow and OpenCV for real-time feedback on yoga poses
+- TensorFlow Pose detection Library and OpenCV for real-time feedback on yoga poses
 - Kommunicat API for chatbot functionality
 
 ## Team Members
