@@ -16,13 +16,6 @@ The Aasana-Sense website is a web-based application designed to assist people in
 - TensorFlow Pose detection Library and OpenCV for real-time feedback on yoga poses
 - Kommunicat API for chatbot functionality
 
-## Team Members
-
-- Bajrang Gour (team lead)
-- Tanishka Pahwa
-- Yash Warddhan Gulia
-- Sajal Singla
-
 ## Installation
 
 To use the Aasana-Sense website, simply clone the repository from GitHub:
