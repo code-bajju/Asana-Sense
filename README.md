@@ -1,5 +1,7 @@
 # Aasana-Sense Website
 
+## Nourish and Flow
+
 The Aasana-Sense website is a web-based application designed to assist people in practicing yoga safely and correctly. It provides guidance on proper alignment and can serve as a personal yoga teacher to ensure that the user is doing the poses correctly. With real-time feedback, personalized recommendations, and a chat box for assistance, the website can help users improve their yoga practice and achieve their desired outcomes.
 
 ## Features
